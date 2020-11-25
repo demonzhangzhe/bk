@@ -18,7 +18,7 @@ APP_CODE = 'myzz'
 # SaaS安全密钥，注意请勿泄露该密钥
 SECRET_KEY = 'bbcceefb-d2bf-42e1-882a-246f0142bbb9'
 # 蓝鲸SaaS平台URL，例如 http://paas.bking.com
-BK_URL = 'http://paas-3.bktyzz.abc:10101'
+BK_URL = 'http://paas-3.bktyzz.abc'
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(
